@@ -1,0 +1,11 @@
+npx create-react-app resort
+cd resort
+npm install react-icons
+npm i react-router-dom --save
+
+install ef7 react-redux
+rafc
+rfc
+rcc
+
+npm install --save styled-components
